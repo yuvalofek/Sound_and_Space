@@ -1,0 +1,9 @@
+;PROJECT=Rose_Auditorium2
+
+;Our source
+SOURCE A0
+ DIRECTIVITY = "omni"
+ POS = -1.12 4.336869 1.716
+ AIMANGLES = 0 0
+ Lp1m_a = <90 90 90 90 90 90>
+END
