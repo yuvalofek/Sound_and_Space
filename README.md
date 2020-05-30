@@ -9,6 +9,5 @@ signal processors, amplifiers and loudspeakers. Applications of psychoacoustics 
 loudspeakers.
 
 Personal Comments:
-I learned here how to properly format my figures to make them look nice. I also gained experience in properly commenting functions so the
-description shows up in the 'help' command, and how to use nargin for more robust function inputs. 
+In this class I learned how to properly format my figures to make them look nice. I also gained experience in properly commenting functions so the description shows up in the 'help' command, and how to use nargin for more robust function inputs. 
 
